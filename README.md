@@ -1,7 +1,7 @@
 ## Git Cheat Sheet
 
 ***************  Brief reference of various git commands  ******************
-***************  Also practice with Git branching  ******************
+    ***************  Also practice with Git branching  ******************
 
 
 * `git init` - initialize a local git Repository in working directory
@@ -17,3 +17,5 @@
 * `git branch` - list local branches
 * `git branch newBranch` - create local branch
 * `git checkout newBranch` - move to branch newBranch
+
+* `git pull origin main` - pull in and merge all branches

@@ -1,6 +1,8 @@
 ## Git Cheat Sheet
 
 ***************  Brief reference of various git commands  ******************
+***************  Also practice with Git branching  ******************
+
 
 * `git init` - initialize a local git Repository in working directory
 * `git status` - show stat of local Repository

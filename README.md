@@ -19,3 +19,6 @@
 * `git checkout newBranch` - move to branch newBranch
 
 * `git pull origin main` - pull in and merge all branches
+
+* `git diff sha` - show diffs between current commit and commit id `sha`
+* `git diff oneBranch otherBranch` - show diffs between 'oneBranch' and `otherBranch`
